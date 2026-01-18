@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sufyan743
-- 👀 I’m interested in cpp,html,css,js...
+- 👀 I’m interested in Python and technology......
 - 🌱 I’m currently learning Full stack web development
 - 📫 How to reach me on LinkedIn, Git Hub.
 
